@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cool
+title: Cool Adv
 ---
 
 ## Подзаголовок
@@ -11,5 +11,5 @@ title: Cool
     <p style="text-align: center">Подпись</p>
 </p>
 
-When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+<p style="text-align: center">When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</p>
